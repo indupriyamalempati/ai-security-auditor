@@ -2,7 +2,7 @@
 
 An AI-powered cybersecurity auditing tool built in Python that scans targets
 for vulnerabilities and uses Llama 3.3 70B (via Groq) to analyze findings,
-assign CVSS scores, and generate remediation reports — completely free.
+assign CVSS scores, and generate remediation reports.
 
 ## Features
 - Port scanning (nmap)
